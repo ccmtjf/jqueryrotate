@@ -1,0 +1,10 @@
+{
+  "name": "jqueryrotate",
+  "version": "2.3",
+  "description": "",
+  "main": "jQueryRotate.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
